@@ -78,4 +78,8 @@
 
 <img src="README.assets/Screenshot_2024-06-06-23-12-02-319_com.korisama.c.jpg" alt="Screenshot_2024-06-06-23-12-02-319_com.korisama.c" style="zoom:25%;" />
 
-<img src="README.assets/Screenshot_2024-06-06-23-12-02-319_com.korisama.c-17176870139011.jpg" alt="Screenshot_2024-06-06-23-12-02-319_com.korisama.c" style="zoom:25%;" />
+
+
+<img src="README.assets/Screenshot_2024-06-06-23-12-10-527_com.korisama.c.jpg" alt="Screenshot_2024-06-06-23-12-10-527_com.korisama.c" style="zoom:25%;" />
+
+ 
